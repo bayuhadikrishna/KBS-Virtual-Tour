@@ -1,0 +1,15 @@
+.bg {
+    background: url('LOGO KBS.png');
+    background-repeat: no-repeat;
+}
+
+.jumbotron {
+    min-height: 500px;
+}
+
+h2 {
+    text-align: center;
+}
+h4 {
+    text-align: center;
+}
